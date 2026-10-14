@@ -1,1 +1,0 @@
-# data stored in a file stays constant whereas data stored in a list or dictionary 
